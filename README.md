@@ -1,6 +1,6 @@
 <p align="center"><img width="80" alt="tntc" src=".github/logo.png"></p>
 
-<h3 align="center">Animal Crossing Character Customization in Unity</h3>
+<h3 align="center">Fortnite Buttle Bus and Jump in Unity</h3>
 
 <p align="center">
 <a href="https://www.youtube.com/channel/UCTR740iIPwfu7Pz_BoCEJ-g" target="_blank"><img alt="Youtube Channel" src="https://img.shields.io/badge/tntc-youtube-red"></a>
@@ -10,6 +10,6 @@
 </p>
 
 
-[![Youtube Video](.github/thumbnail.png)](https://www.youtube.com/watch?v=5Ow_FUEzqHM)
+[![Youtube Video](.github/thumbnail.png)](https://www.youtube.com/watch?v=PzfyubSYh04)
 
 <p align="center"><a href="https://www.youtube.com/channel/UCTR740iIPwfu7Pz_BoCEJ-g" target="_blank">Check the full video on YouTube</a></p>
